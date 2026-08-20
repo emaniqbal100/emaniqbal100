@@ -82,4 +82,4 @@ Full-stack builds, Next.js / React features, or collaboration on a web project:
 Reach out — happy to talk about what you're building.
 
 ---
-⭐️ From [emaniqbal100](https://github.com/emaniqbal100)
+⭐️ From [Eman Iqbal](https://github.com/emaniqbal100)
