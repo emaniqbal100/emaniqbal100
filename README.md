@@ -27,7 +27,7 @@ I use AI-assisted tools like GitHub Copilot and Cursor to ship faster without cu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emaniqbal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emaniqbal100)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmnqb@gmail.com)
-[![Phone](https://img.shields.io/badge/Whats-app-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923320007216)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923320007216)
 
 ## 💻 Tech Stack
 
@@ -69,6 +69,17 @@ I use AI-assisted tools like GitHub Copilot and Cursor to ship faster without cu
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emaniqbal100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+
+## 📬 Contact
+
+Full-stack builds, Next.js / React features, or collaboration on a web project:
+
+- **Email:** [emmnqb@gmail.com](mailto:emmnqb@gmail.com)
+- **WhatsApp:** [Message me](tel:+923320007216)
+- **LinkedIn:** [linkedin.com/in/emaniqbal](https://linkedin.com/in/emaniqbal)
+- **GitHub:** [github.com/emaniqbal100](https://github.com/emaniqbal100)
+
+Reach out — happy to talk about what you're building.
 
 ---
 ⭐️ From [emaniqbal100](https://github.com/emaniqbal100)
