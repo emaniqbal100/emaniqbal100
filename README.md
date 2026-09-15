@@ -75,7 +75,7 @@ I use AI-assisted tools like GitHub Copilot and Cursor to ship faster without cu
 Full-stack builds, Next.js / React features, or collaboration on a web project:
 
 - **Email:** [emmnqb@gmail.com](mailto:emmnqb@gmail.com)
-- **WhatsApp:** +923320007216(tel:+923320007216)
+- **WhatsApp:** +923320007216
 - **LinkedIn:** [linkedin.com/in/emaniqbal](https://linkedin.com/in/emaniqbal)
 - **GitHub:** [github.com/emaniqbal100](https://github.com/emaniqbal100)
 
